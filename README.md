@@ -1,0 +1,4 @@
+pipe
+====
+
+Named pipe
